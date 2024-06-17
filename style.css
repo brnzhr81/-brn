@@ -1,0 +1,15 @@
+td{padding: 5px;
+    color: rgb(75, 70, 70);
+    border:solid grey 2px  !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    margin-right: 5px;
+}
+
+*{
+    font-family:sans-serif !important;
+}
+a{
+    color: rgb(66, 65, 62);
+    font-size: large;
+
+}
